@@ -12,9 +12,9 @@ medium_dataset.extend(docs)
 
 # Load large dataset
 large_dataset = []
-docs = myloadlib.loadFile("data/Automotive training.pdf")
+docs = myloadlib.loadFile("data/Automotive_training.pdf")
 large_dataset.extend(docs)
 docs = myloadlib.loadFile("data/how_to_change_your_car_oil.pdf")
 large_dataset.extend(docs)
-docs = myloadlib.loadFile("data/IT9393O00108A.pdf")
+docs = myloadlib.loadFile("data/honda_manual.pdf")
 large_dataset.extend(docs)
