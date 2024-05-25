@@ -1,5 +1,4 @@
-# ola4DB
-DB ola 4
+# DB ola 4
 
 ## Overview
 This project is designed to ingest, process, and search documents related to automobile maintenance. It uses various tools and libraries to load data from different sources, split them into manageable chunks, vectorize the text, store the vectors in a database, and perform similarity searches.
