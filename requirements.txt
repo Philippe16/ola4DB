@@ -1,0 +1,8 @@
+dotenv
+numpy
+pandas
+torch
+langchain
+weaviate-client
+chromadb
+getpass
